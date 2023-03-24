@@ -1,4 +1,2 @@
-def function(a: int, b: int) -> pd.DataFrame:
-  return pd.DataFrame(a + b)
-
-c = 3
+a = 2
+print(a)
